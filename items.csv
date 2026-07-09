@@ -1,0 +1,121 @@
+item_id,item_name,category,tags,description,rating,popularity_score
+1,Neon Horizon,Movies,Sci-Fi|Action|Technology|AI,A rogue AI pilot fights to save a floating city from collapse.,4.6,91
+2,Quiet Static,Movies,Drama|Mystery|Psychological,A sound engineer uncovers a conspiracy hidden in radio frequencies.,4.2,63
+3,The Last Algorithm,Movies,Sci-Fi|Thriller|AI|Technology,An engineer races to stop a self-improving algorithm from escaping containment.,4.7,95
+4,Crimson Tide Racing,Movies,Action|Sports|Adventure,Rival street racers battle for control of the coastal highways.,4.0,72
+5,Whispers of Kyoto,Movies,Drama|Romance|Culture,Two strangers reconnect over seasons in a quiet Japanese town.,4.5,68
+6,Galaxy Protocol,Movies,Sci-Fi|Space|Adventure|AI,A starship crew must negotiate with an alien intelligence to survive.,4.4,88
+7,Iron Circuit,Movies,Action|Technology|Superhero,A disabled engineer builds an exosuit to protect her city.,4.3,84
+8,The Silent Ledger,Movies,Thriller|Crime|Finance,A forensic accountant unravels a global money-laundering ring.,4.1,59
+9,Paper Lanterns,Movies,Drama|Family|Romance,A grandmother's letters reveal a hidden wartime love story.,4.6,55
+10,Deep Field,Movies,Sci-Fi|Space|Exploration,Astronauts discover an anomaly at the edge of the solar system.,4.5,80
+11,Code Red Zero,Movies,Action|Cybersecurity|Thriller,A hacker must stop a cyberattack on critical infrastructure in real time.,4.3,77
+12,Autumn in Prague,Movies,Romance|Drama|Travel,Two travelers find unexpected connection during a European gap year.,4.0,48
+13,The Machine Learns,Movies,Sci-Fi|Drama|AI|Technology,A researcher forms an emotional bond with the AI she trained.,4.8,93
+14,Bhangra Nights,Movies,Comedy|Music|Family,A wedding DJ tries to save his family's dance academy.,4.2,52
+15,Orbital Decay,Movies,Sci-Fi|Thriller|Space,A damaged space station crew must survive reentry.,4.1,66
+16,The Startup Wars,Movies,Drama|Business|Technology,Two co-founders battle over control of their unicorn startup.,3.9,61
+17,Monsoon Diaries,Movies,Drama|Coming-of-Age,A teenager navigates identity during monsoon season in Kerala.,4.4,50
+18,Firewall,Movies,Thriller|Cybersecurity|Action,A security analyst discovers she is the target of her own defense system.,4.2,70
+19,Quantum Heist,Movies,Action|Sci-Fi|Heist,A crew uses quantum computing to pull off an impossible heist.,4.3,82
+20,Sunset Over Lagos,Movies,Drama|Music|Culture,A struggling musician chases his big break in Lagos' Afrobeat scene.,4.5,58
+21,Deep Learning Demystified,Books,AI|Technology|Programming|Data Science,A beginner-friendly walkthrough of neural networks and deep learning.,4.7,89
+22,The Silent Algorithm,Books,AI|Fiction|Thriller,A novel about an AI that predicts crimes before they happen.,4.3,65
+23,Atomic Focus,Books,Self-Help|Productivity|Psychology,Practical strategies for building deep focus in a distracted world.,4.5,80
+24,Python for Everyone,Books,Programming|Technology|Education,A comprehensive guide to Python for absolute beginners.,4.6,92
+25,Whispering Pines,Books,Fiction|Mystery|Drama,A small-town detective uncovers secrets buried for decades.,4.1,47
+26,The Data Science Handbook,Books,Data Science|AI|Programming|Technology,Interviews and insights from leading data scientists.,4.4,74
+27,Mindful Leadership,Books,Business|Self-Help|Psychology,How mindfulness practices improve executive decision-making.,4.2,55
+28,Neural Networks from Scratch,Books,AI|Programming|Technology|Data Science,Build neural networks using only Python and NumPy.,4.8,87
+29,Letters from the Void,Books,Fiction|Sci-Fi|Space,An astronaut's letters home during a decade-long deep space mission.,4.5,60
+30,The Lean Startup Playbook,Books,Business|Technology|Entrepreneurship,A practical guide to validating startup ideas quickly.,4.3,71
+31,Cosmic Threads,Books,Fiction|Sci-Fi|Philosophy,A meditation on consciousness wrapped in a space opera.,4.4,58
+32,Cybersecurity Essentials,Books,Cybersecurity|Technology|Programming,A foundational guide to protecting modern systems and networks.,4.5,76
+33,The Art of Habit,Books,Self-Help|Psychology|Productivity,How small daily habits compound into major life change.,4.6,83
+34,Recommendation Systems Explained,Books,AI|Data Science|Programming|Technology,A practical guide to building recommendation engines from scratch.,4.7,85
+35,Garden of Forgotten Names,Books,Fiction|Drama|Historical,A multigenerational saga set across three continents.,4.3,52
+36,Statistics for Machine Learning,Books,AI|Data Science|Mathematics,Core statistical foundations behind modern ML algorithms.,4.4,69
+37,The Founder's Dilemma,Books,Business|Entrepreneurship|Technology,Real case studies of startup founders navigating hard choices.,4.1,57
+38,Under a Painted Sky,Books,Fiction|Adventure|Historical,Two young women disguise themselves to cross the Oregon Trail.,4.5,49
+39,Cloud Computing Fundamentals,Books,Technology|Cloud|Programming,"An introduction to cloud infrastructure, AWS, and DevOps basics.",4.3,73
+40,The Ethics of AI,Books,AI|Philosophy|Technology,A balanced exploration of the moral questions raised by artificial intelligence.,4.6,78
+41,Machine Learning Specialization,Online Courses,AI|Data Science|Programming|Technology,"92% match with interests in AI, Data Science, and Programming.",4.8,96
+42,Full-Stack Web Development,Online Courses,Programming|Technology|Web Development,Build complete web applications using modern JavaScript frameworks.,4.5,88
+43,Deep Learning with TensorFlow,Online Courses,AI|Data Science|Programming|Technology,Hands-on deep learning projects using TensorFlow and Keras.,4.7,90
+44,Data Structures and Algorithms,Online Courses,Programming|Technology|Computer Science,Master the core computer science concepts behind coding interviews.,4.6,85
+45,Introduction to Cybersecurity,Online Courses,Cybersecurity|Technology|Networking,Learn the fundamentals of network security and ethical hacking.,4.4,77
+46,Cloud Computing with AWS,Online Courses,Cloud|Technology|DevOps,Deploy and manage scalable applications on Amazon Web Services.,4.5,82
+47,Python for Data Science,Online Courses,Programming|Data Science|AI|Technology,"Use Python, Pandas, and NumPy to analyze real-world datasets.",4.7,91
+48,UI/UX Design Fundamentals,Online Courses,Design|Technology|Creativity,Learn user-centered design principles for digital products.,4.3,68
+49,Natural Language Processing,Online Courses,AI|Data Science|Programming|Technology,Build systems that understand and generate human language.,4.6,84
+50,DevOps and CI/CD Pipelines,Online Courses,DevOps|Technology|Cloud|Programming,"Automate software delivery using Docker, Kubernetes, and CI/CD.",4.4,75
+51,Game Development with Unity,Online Courses,Games|Programming|Technology|Design,Create 2D and 3D games using the Unity engine and C#.,4.5,80
+52,Business Analytics Foundations,Online Courses,Data Science|Business|Technology,Use data-driven techniques to inform strategic business decisions.,4.2,62
+53,Blockchain and Web3 Basics,Online Courses,Technology|Blockchain|Programming,Understand blockchain fundamentals and smart contract development.,4.1,58
+54,Mobile App Development with Flutter,Online Courses,Programming|Technology|Mobile,Build cross-platform mobile apps using Flutter and Dart.,4.5,79
+55,AI Ethics and Governance,Online Courses,AI|Philosophy|Technology,Explore responsible AI deployment and governance frameworks.,4.3,60
+56,SQL for Data Analysis,Online Courses,Data Science|Programming|Technology,Master relational databases and advanced SQL querying.,4.6,83
+57,Product Management Essentials,Online Courses,Business|Technology|Strategy,Learn to lead cross-functional teams and ship successful products.,4.4,70
+58,Computer Vision with OpenCV,Online Courses,AI|Data Science|Programming|Technology,Build image recognition and object detection systems.,4.6,81
+59,Digital Marketing Analytics,Online Courses,Business|Marketing|Data Science,Use analytics tools to optimize digital marketing campaigns.,4.0,54
+60,Reinforcement Learning Basics,Online Courses,AI|Data Science|Programming|Technology,Understand how agents learn optimal behavior through reward signals.,4.5,76
+61,Circuit Breach,Games,Action|Cybersecurity|Technology|Strategy,Hack through corporate networks in this cyberpunk stealth game.,4.6,88
+62,Starforge Colony,Games,Sci-Fi|Strategy|Space|Simulation,Build and manage a self-sustaining colony on a hostile alien world.,4.5,84
+63,Neural Drift,Games,Sci-Fi|Racing|AI|Technology,Race AI-controlled vehicles across procedurally generated tracks.,4.3,75
+64,Kingdom of Embers,Games,Fantasy|RPG|Adventure,Explore a war-torn fantasy realm as a wandering mercenary.,4.7,90
+65,Puzzle Protocol,Games,Puzzle|Technology|Strategy,Solve logic puzzles to reprogram a malfunctioning space station AI.,4.4,70
+66,Shadow Ledger,Games,Strategy|Crime|Simulation,Manage a criminal empire while evading a relentless AI detective.,4.2,65
+67,Skybound Legends,Games,Adventure|Fantasy|Action,Soar through floating islands as a sky pirate seeking treasure.,4.5,79
+68,Mind Palace,Games,Puzzle|Psychology|Indie,Navigate a surreal mindscape to solve emotionally driven puzzles.,4.6,68
+69,Data Miners,Games,Strategy|Technology|Simulation,Compete to extract and monetize data in a near-future economy.,4.1,58
+70,Frostbound Tactics,Games,Strategy|War|Fantasy,Command armies across icy battlefields in turn-based combat.,4.4,73
+71,Pixel Coders,Games,Puzzle|Programming|Education,Learn real coding concepts by solving programming puzzles.,4.5,71
+72,Void Runners,Games,Sci-Fi|Action|Space|Adventure,Pilot a starship crew through a collapsing galaxy.,4.3,77
+73,Echoes of Elandra,Games,RPG|Fantasy|Story-Rich,An emotionally driven RPG about memory and loss.,4.7,82
+74,Botanica Isles,Games,Simulation|Relaxation|Nature,Cultivate a magical island garden ecosystem at your own pace.,4.6,66
+75,Overclock,Games,Action|Technology|Esports|Strategy,A fast-paced competitive shooter set in a hyper-connected future.,4.2,80
+76,Chrono Vault,Games,Puzzle|Sci-Fi|Adventure,Manipulate time to solve escape-room style challenges.,4.5,72
+77,Iron Frontier,Games,Strategy|Sci-Fi|Simulation,Build and defend a mining colony on a resource-rich exoplanet.,4.3,69
+78,Tactical Uplink,Games,Strategy|Cybersecurity|Technology,Coordinate a hacker team to infiltrate high-security systems.,4.4,74
+79,Whispering Woods,Games,Adventure|Fantasy|Indie,A cozy narrative adventure exploring a mysterious enchanted forest.,4.6,63
+80,Ascendant AI,Games,Strategy|AI|Technology|Sci-Fi,Train and evolve your own AI companion to conquer the galaxy.,4.7,86
+81,The AI Frontier,Podcasts,AI|Technology|Data Science,Weekly conversations with leading AI researchers and engineers.,4.7,87
+82,Code & Coffee,Podcasts,Programming|Technology|Career,Casual deep dives into software engineering practices and career growth.,4.4,74
+83,Mindset Shift,Podcasts,Self-Help|Psychology|Productivity,Practical strategies for building resilience and mental clarity.,4.5,76
+84,Startup Signals,Podcasts,Business|Technology|Entrepreneurship,Founders share the highs and lows of building companies.,4.3,68
+85,Cyber Uncovered,Podcasts,Cybersecurity|Technology|Investigations,Investigative stories from the world of cybercrime and defense.,4.6,80
+86,Data Driven,Podcasts,Data Science|AI|Programming,Breaking down real-world machine learning case studies.,4.5,78
+87,The Design Lab,Podcasts,Design|Technology|Creativity,Conversations with product designers shaping modern software.,4.2,60
+88,Space Signals,Podcasts,Space|Science|Exploration,Exploring the latest discoveries in astronomy and space exploration.,4.6,79
+89,Future of Work,Podcasts,Business|Technology|Productivity,How AI and automation are reshaping careers and workplaces.,4.3,65
+90,Philosophy Now,Podcasts,Philosophy|Psychology|Culture,Accessible discussions on classic and modern philosophical ideas.,4.4,58
+91,Gaming Uncut,Podcasts,Games|Technology|Culture,Honest reviews and interviews from the video game industry.,4.3,70
+92,The Cloud Native Show,Podcasts,Cloud|DevOps|Technology,"Deep dives into Kubernetes, microservices, and cloud architecture.",4.4,66
+93,History Uncovered,Podcasts,History|Culture|Education,Long-form storytelling exploring pivotal moments in world history.,4.6,72
+94,The Ethical Machine,Podcasts,AI|Philosophy|Technology,Examining the ethical dilemmas posed by emerging technology.,4.5,69
+95,Indie Hackers Radio,Podcasts,Business|Technology|Entrepreneurship,Interviews with solo founders building profitable side projects.,4.2,61
+96,Neural Notes,Podcasts,AI|Data Science|Technology,Bite-sized explainers on the latest AI research papers.,4.5,73
+97,Wellness Weekly,Podcasts,Health|Self-Help|Psychology,Evidence-based tips for physical and mental well-being.,4.3,64
+98,The Product Mindset,Podcasts,Business|Technology|Strategy,"Product leaders discuss strategy, roadmaps, and user research.",4.1,55
+99,Quantum Curious,Podcasts,Science|Technology|Physics,Making quantum computing and physics approachable for everyone.,4.4,62
+100,Security Sundays,Podcasts,Cybersecurity|Technology|Networking,A relaxed weekly roundup of the biggest security news.,4.2,59
+101,VeloCode IDE,Technology Tools,Programming|Technology|Productivity,"A lightweight, extensible code editor with built-in AI autocomplete.",4.6,85
+102,DataForge Analytics,Technology Tools,Data Science|AI|Business,A drag-and-drop platform for building data pipelines and dashboards.,4.4,74
+103,CloudNest,Technology Tools,Cloud|DevOps|Technology,A managed cloud hosting platform with one-click deployments.,4.5,79
+104,SecureVault Pro,Technology Tools,Cybersecurity|Technology|Privacy,Enterprise-grade password and secrets management.,4.6,81
+105,PixelStudio,Technology Tools,Design|Technology|Creativity,A collaborative design tool for UI/UX prototyping.,4.3,68
+106,ModelHub AI,Technology Tools,AI|Data Science|Programming,A marketplace and hosting platform for pretrained machine learning models.,4.7,88
+107,TaskFlow,Technology Tools,Productivity|Business|Technology,A project management tool with automated workflow triggers.,4.2,63
+108,GitStream,Technology Tools,Programming|Technology|DevOps,A visual Git client that simplifies branching and code review.,4.4,70
+109,InsightBoard,Technology Tools,Data Science|Business|AI,Real-time analytics dashboards powered by predictive modeling.,4.5,76
+110,ChatBridge API,Technology Tools,AI|Programming|Technology,An API toolkit for embedding conversational AI into applications.,4.6,83
+111,NetGuard Firewall,Technology Tools,Cybersecurity|Technology|Networking,A next-generation firewall with AI-based threat detection.,4.5,77
+112,SwiftDeploy CI,Technology Tools,DevOps|Cloud|Technology,A continuous integration platform with one-click rollback.,4.3,66
+113,VectorBase,Technology Tools,AI|Data Science|Programming,A vector database optimized for similarity search and embeddings.,4.7,84
+114,FormWise,Technology Tools,Business|Productivity|Technology,A smart form builder with built-in data validation logic.,4.1,54
+115,CodeReview AI,Technology Tools,Programming|AI|Technology,An AI-powered assistant for automated code review and refactoring.,4.6,82
+116,EdgeSync,Technology Tools,Cloud|Technology|IoT,Real-time data synchronization for edge and IoT devices.,4.2,60
+117,MetricLens,Technology Tools,Data Science|Business|Analytics,A no-code analytics tool for tracking product and marketing KPIs.,4.3,65
+118,AutoMate Studio,Technology Tools,Productivity|Technology|Automation,Build no-code automation workflows across your favorite apps.,4.4,71
+119,Sentinel Monitor,Technology Tools,Cybersecurity|Technology|DevOps,Real-time infrastructure monitoring with anomaly detection.,4.5,75
+120,PromptCraft,Technology Tools,AI|Programming|Technology,A prompt engineering workbench for testing and versioning LLM prompts.,4.6,80
